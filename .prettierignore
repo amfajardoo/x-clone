@@ -1,7 +1,6 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
 # environment files
 /src/environments/environment.ts
+/src/assets/scripts/set-env.ts
 .env
 
 # Compiled output
