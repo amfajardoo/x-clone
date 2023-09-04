@@ -1,5 +1,7 @@
 <p class="content text-3xl font-bold underline">
   <span>{{ title }} app is running!</span>
 </p>
-<span>testing commit sas</span>
+<pre>
+  {{ posts() | json }}
+</pre>
 <router-outlet></router-outlet>
