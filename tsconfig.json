@@ -7,7 +7,10 @@
     "paths": {
       "@env/*": ["src/environments/*"],
       "@data-access/*": ["src/app/data-access/*"],
-      "@models/*": ["src/app/models/*"]
+      "@models/*": ["src/app/models/*"],
+      "@components/*": ["src/app/components/*"],
+      "@ui/*": ["src/app/ui/*"],
+      "@constants/*": ["src/app/constants/*"]
     },
     "forceConsistentCasingInFileNames": true,
     "strict": true,
